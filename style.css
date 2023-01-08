@@ -1,0 +1,27 @@
+body {
+    font-family: Russo One, sans-serif;
+}
+
+#drum-machine {
+    max-width: 570px;
+    min-width: 570px;
+    height: 300px;
+}
+
+#keyPad {
+    width: 300px;
+}
+
+#controls-container {
+    width: 150px;
+    height: 200px;
+}
+
+#display {
+    height: 40px;
+    margin: 20px 0;
+}
+
+.button {
+    width: 10px;
+}
